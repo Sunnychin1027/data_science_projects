@@ -1,6 +1,9 @@
 # Data Science Projects
 Welcome to my data science projects repository, this repository showcases a collection of my data science projects, ranging from BI(Descriptive analytics), ML(Predictive analytics) and decision making(Prescriptive anaytics).
 
+## Tableau Projects
+1. [Click me to my tableau public profile :))](https://public.tableau.com/app/profile/sunny.chin1027/vizzes)
+
 ## 2024 Projects
 1. [Brooklyn's Tree Care Visualization](https://mailmissouri-my.sharepoint.com/:b:/r/personal/cc92k_umsystem_edu/Documents/Data%20Vis%20for%20tree%20data.pdf?csf=1&web=1&e=bpbCif)
 2. Chronic Disease Analysis and Prediction (Currently Ongoing)
@@ -24,6 +27,3 @@ Welcome to my data science projects repository, this repository showcases a coll
 5. [Baby names analysis](https://github.com/Sunnychin1027/2022_learning_projects-5.git)
 6. [Recursive!](https://github.com/Sunnychin1027/2022_learning_projects-6.git)
 7. [Create Boggle Game](https://github.com/Sunnychin1027/2022_learning_projects-7.git)
-
-## Tableau Projects
-1. [Click me to my tableau public profile :))](https://public.tableau.com/app/profile/sunny.chin1027/vizzes)
