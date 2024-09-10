@@ -5,8 +5,11 @@ Welcome to my data science projects repository, this repository showcases a coll
 1. [Click me to my tableau public profile :))](https://public.tableau.com/app/profile/sunny.chin1027/vizzes)
 
 ## 2024 Projects
-1. [Brooklyn's Tree Care Visualization](https://mailmissouri-my.sharepoint.com/:b:/r/personal/cc92k_umsystem_edu/Documents/Data%20Vis%20for%20tree%20data.pdf?csf=1&web=1&e=bpbCif)
+1. Predictive Analytics for Ventilator Extubation and Reintubation Risk Assessment (Currently Ongoing)
 2. Chronic Disease Analysis and Prediction (Currently Ongoing)
+3. RNAseq data analysis 
+4. [Brooklyn's Tree Care Visualization](https://mailmissouri-my.sharepoint.com/:b:/r/personal/cc92k_umsystem_edu/Documents/Data%20Vis%20for%20tree%20data.pdf?csf=1&web=1&e=bpbCif)
+
 
 ## 2023 Projects
 1. [Nutrition Analysis (poster)](https://mailmissouri-my.sharepoint.com/personal/cc92k_umsystem_edu/Documents/Stancode/poster.jpeg?csf=1&web=1&e=KkakR1&cid=76684f60-e398-489b-94b0-05f2a264d3ba)
